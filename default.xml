@@ -1,6 +1,6 @@
 <manifest>
   <remote fetch="https://github.com/pyljain" name="origin"/>
 
-  <project remote="origin" name="logging-library" path="logging-library" />
-  <project remote="origin" name="multipart" path="multipart" />
+  <project remote="origin" name="logging-library" path="logging-library" revision="refs/heads/main" />
+  <project remote="origin" name="multipart" path="multipart" revision="refs/heads/main" />
 </manifest>
